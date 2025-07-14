@@ -1,4 +1,4 @@
-# Hello I'm Vamshidhar, excited about learning new things
+# Hello I'm SharanTeja, excited about learning new things
 
 <!---
 SkillIssue1922/SkillIssue1922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
